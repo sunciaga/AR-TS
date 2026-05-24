@@ -30,4 +30,4 @@ The engine orchestrates data processing through an asynchronous background loop 
 
 ---
 
-📬 **Infrastructure Correspondence:** [samebriann@gmail.com] | [https://www.linkedin.com/in/backend-brian]
+📬 **Infrastructure Correspondence:** samebriann@gmail.com | https://www.linkedin.com/in/backend-brian
