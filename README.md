@@ -1,7 +1,7 @@
 <div align="center">
 
 # AR-TS
-### (Asynchronous Routing & Traffic Shaper)
+(Asynchronous Routing & Traffic Shaper)
 
 A zero-dependency TypeScript/Node.js core engine designed from first principles to handle high-concurrency data ingestion pipelines without framework overhead.
 
